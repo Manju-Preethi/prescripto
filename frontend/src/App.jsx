@@ -12,7 +12,7 @@ import MyProfile from './pages/MyProfile'
 import MyAppointments from './pages/MyAppointments'
 import Appointment from './pages/Appointment'
 import Navbar from './components/Navbar'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
