@@ -3,7 +3,24 @@
 # PRESCRIPTO 👨‍⚕️🏥🤒
 </div>
 
-This full stack appointment booking system can be used by a doctor or a hospital. Because in this project I have created 3 level of authentication. 1st one is for Patients, so that patient can login on the website, book appointment with doctor and manage the booked appointment. 2nd one is doctor login, so that doctor can login and check the appointment and their earning. Doctor can update their profile also from dashboard. 3rd one is Admin Dashboard where admin can manages the appointment and admin can also manage the doctor profile.
+<div>
+  <p>
+    This full-stack appointment booking system is designed for doctors 🩺 and hospitals 🏥. It includes a robust three-level authentication system:
+  </p>
+
+  <ol>
+    <li>
+      <strong>👤 Patient Login:</strong> Patients can register or log in to book appointments 📅 with doctors and manage their scheduled visits 🗓️.
+    </li>
+    <li>
+      <strong>🧑‍⚕️ Doctor Login:</strong> Doctors can log in to view appointments 📋 and earnings 💰. They can also update their profiles via the dashboard 🧾.
+    </li>
+    <li>
+      <strong>🛠️ Admin Dashboard:</strong> Admins can manage all appointments ✅ and doctor profiles 👨‍⚕️ through a dedicated admin panel 📊.
+    </li>
+  </ol>
+</div>
+
 
 <br/><hr/><br/>
 
