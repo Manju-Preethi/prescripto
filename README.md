@@ -11,9 +11,9 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 ## LIVE - DEMO 🌐
   
-**UI** 👉 [LINK](https://prescripto-frontend-lovat.vercel.app)
+**UI** 👉 [LINK](https://prescripto-frontend-iuq8.onrender.com/)
 
-**Admin Dashboard** 👉 [LINK](https://prescripto-admin-beta.vercel.app)
+**Admin Dashboard** 👉 [LINK](https://prescripto-admin-s4nn.onrender.com/)
 </div>
 
 <br/><hr/><br/>
