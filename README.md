@@ -21,17 +21,17 @@ This full stack appointment booking system can be used by a doctor or a hospital
 <div align="center">
 
 # User Dashboard 👤:
-![UI](https://github.com/user-attachments/assets/f953ae81-7cc8-4b6b-8101-c3aa47d0aada)
+![UI](https://github.com/Manju-Preethi/prescripto/issues/1#issue-3216764933)
 
 <br /><hr /><br />
 
 # Doctor Panel 🧑‍⚕️:
-![doctor-panel](https://github.com/user-attachments/assets/ed488e0a-a61a-4cb1-b95a-f19b9135f9b2)
+![doctor-panel](https://github.com/Manju-Preethi/prescripto/issues/2#issue-3216768765)
 
 <br /><hr /><br />
 
 # Admin Panel 🎯:
-![admin-panel](https://github.com/user-attachments/assets/5479b3c0-0663-41ec-9fe2-17434249155c)
+![admin-panel](https://github.com/Manju-Preethi/prescripto/issues/3#issue-3216770423)
 
 </div>
 
