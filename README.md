@@ -31,7 +31,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 <br /><hr /><br />
 
 # Admin Panel 🎯:
-![admin-panel](https://github.com/Manju-Preethi/prescripto/issues/3#issue-3216770423)
+![admin-panel](https://private-user-images.githubusercontent.com/143400826/464330409-339291e2-e154-4b84-a62a-d18a0d82b378.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwODYxODUsIm5iZiI6MTc1MjA4NTg4NSwicGF0aCI6Ii8xNDM0MDA4MjYvNDY0MzMwNDA5LTMzOTI5MWUyLWUxNTQtNGI4NC1hNjJhLWQxOGEwZDgyYjM3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOVQxODMxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZWY5Y2QxNDMwYmQ3ODVkNDY2NzMzMzA3NWYyYjE1ZTdlMGQ2NDRlNjhlZWI2YzYwZGQ1MzNmNzBlMDZlZWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZrvvYI0wQEyPtiDgW7rN-7ZCquZ50EljSb7FBMbtO9o)
 
 </div>
 
